@@ -1,0 +1,6 @@
+# Extention
+*.log
+# Folder name
+logs/
+# File name
+waste.html 
